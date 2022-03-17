@@ -1,3 +1,3 @@
 # Шаблон грид седки с комментариями в коде
 
-![screen](https://blogger.googleusercontent.com/img/a/AVvXsEhw0A0iNU98miMYnwIlWrIhEE5mh0L-Jxerr7nXQjTuKfLGNlcF3aJsdarCRaJ8KNBarmWGdVptJrwRsUu03dOo9TYGGGWIR2IB7xKqfJFnETYfPc9ELkTMOY6Jf9-OqFBZKe2HDffyT9p5NOcXdWWISL9esdDVJuPAstXZ2sRc1dk6WaRlkc35S4SPVw=s420)
+![screen](https://blogger.googleusercontent.com/img/a/AVvXsEhw0A0iNU98miMYnwIlWrIhEE5mh0L-Jxerr7nXQjTuKfLGNlcF3aJsdarCRaJ8KNBarmWGdVptJrwRsUu03dOo9TYGGGWIR2IB7xKqfJFnETYfPc9ELkTMOY6Jf9-OqFBZKe2HDffyT9p5NOcXdWWISL9esdDVJuPAstXZ2sRc1dk6WaRlkc35S4SPVw=s800)
